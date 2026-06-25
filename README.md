@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-temps-des-cerises/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Temps Des Cerises](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-des-cerises/) |
+| **Get License** | [Request Licensing for Le Temps Des Cerises](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-des-cerises/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `25ef2065cc1cb7fa45bd101e2d1756193344362d5f69827071509572dec54033` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
