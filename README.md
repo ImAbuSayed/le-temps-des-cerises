@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-temps-des-cerises/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Temps Des Cerises](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-des-cerises/) |
+| **Get License** | [Get a Licensing Quote for Le Temps Des Cerises](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-des-cerises/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu rayonnes dans la nuit, t'es la seule que je vois
+> Mon ego s'évapore quand je suis près de toi
+> Viens danser mon bébé, laisse le monde en bas
+> Chaque regard me captive, je ne veux que tes bras
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
